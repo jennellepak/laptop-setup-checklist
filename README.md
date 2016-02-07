@@ -33,4 +33,6 @@
  git config --global user.email ...
  ```
  * add SSH keys
+ * install [postgresql](http://postgresapp.com/)
+
 
