@@ -25,3 +25,12 @@
  ```
  
  * install [Atom](https://atom.io/download/mac)
+ * setup git
+ 
+ ```bash
+ brew install git
+ git config --global user.name ...
+ git config --global user.email ...
+ ```
+ * add SSH keys
+
